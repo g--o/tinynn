@@ -1,0 +1,6 @@
+
+class Sigmoid(object):
+
+	pass
+
+

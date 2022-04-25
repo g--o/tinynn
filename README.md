@@ -1,2 +1,5 @@
 # tinynn
-tiny neural network framework for studying the subject (unoptimized, incomplete, etc.)
+Remakeing my neural network framework for re-studying the subject. 
+This will be unoptimized, incomplete, etc.
+
+status: design & early development.

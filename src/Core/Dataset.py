@@ -1,6 +1,0 @@
-
-class Dataset(object):
-
-	pass
-
-

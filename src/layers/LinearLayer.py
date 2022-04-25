@@ -1,4 +1,4 @@
-from Core.Layer import *
+from core.Layer import *
 
 class LinearLayer (Layer):
 
