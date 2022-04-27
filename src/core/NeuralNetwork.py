@@ -1,6 +1,7 @@
 from core.Layer import *
 from layers.Activator import *
 from core.Dataset import *
+from datatypes.Matrix import *
 
 class NeuralNetwork(object):
 
@@ -10,10 +11,13 @@ class NeuralNetwork(object):
 	def adjust(self, delta_weights):
 		pass
 
-	def get_layers(self):
+	def get_graph(self):
 		pass
 
-	def get_weights(self):
+	def get_input(self):
+		pass
+
+	def get_output(self):
 		pass
 
 

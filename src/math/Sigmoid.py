@@ -1,5 +1,6 @@
+from math.DifferentiableFunction import *
 
-class Sigmoid(object):
+class Sigmoid (DifferentiableFunction):
 
 	pass
 

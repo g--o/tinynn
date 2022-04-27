@@ -1,10 +1,10 @@
 
 class Layer(object):
 
-	def forward(self):
+	def forward(self, input_layer):
 		pass
 
-	def backward(self):
+	def backward(self, output_layer):
 		pass
 
 
